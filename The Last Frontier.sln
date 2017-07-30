@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The Last Frontier.CSharp", "The Last Frontier.CSharp.csproj", "{6890EC66-F3D3-8675-9152-79F99CFFED49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The Last Frontier.CSharp.Editor.Plugins", "The Last Frontier.CSharp.Editor.Plugins.csproj", "{6D61F74F-AA27-413B-3EA3-230DBB43E114}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The Last Frontier.CSharp.Editor", "The Last Frontier.CSharp.Editor.csproj", "{77D2B3E4-5D4D-DB72-637F-E58FE1A930D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6890EC66-F3D3-8675-9152-79F99CFFED49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6890EC66-F3D3-8675-9152-79F99CFFED49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6890EC66-F3D3-8675-9152-79F99CFFED49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6890EC66-F3D3-8675-9152-79F99CFFED49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D61F74F-AA27-413B-3EA3-230DBB43E114}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D61F74F-AA27-413B-3EA3-230DBB43E114}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D61F74F-AA27-413B-3EA3-230DBB43E114}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D61F74F-AA27-413B-3EA3-230DBB43E114}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77D2B3E4-5D4D-DB72-637F-E58FE1A930D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77D2B3E4-5D4D-DB72-637F-E58FE1A930D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77D2B3E4-5D4D-DB72-637F-E58FE1A930D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77D2B3E4-5D4D-DB72-637F-E58FE1A930D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
